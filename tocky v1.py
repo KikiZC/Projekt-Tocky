@@ -7,7 +7,7 @@ pygame.init()
 # Nastavení velikosti okna
 width, height = 2000, 1400
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Simulace otáčejících se bodů s linkami")
+pygame.display.set_caption("Projekt Točky")
 
 # Barva pozadí
 background_color = (0, 0, 0)
